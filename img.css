@@ -1,0 +1,11 @@
+.imgimg{
+  height: 100%;
+  width: 100%;
+  object-fit:cover;
+  -o-object-fit:cover;
+}
+body{width:100%;margin:auto;min-width:300px;max-width:2000px}
+.text:hover {
+    color: #d0c337;
+    font-weight: bold;
+}
